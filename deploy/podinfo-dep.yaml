@@ -4,10 +4,6 @@ apiVersion: apps/v1
 metadata:
   name: podinfo
   namespace: dev
-  annotations:
-    flux.weave.works/automated_user: Glenn Turner <gmt5050@mac.com>
-    flux.weave.works/automated: 'true'
-    flux.weave.works/automated_msg: test
 spec:
   replicas: 4
   selector:
