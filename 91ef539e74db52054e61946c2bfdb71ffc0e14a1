@@ -1,0 +1,1 @@
+{"jobID":"43350bb4-40f7-26ac-f5a7-93b4dac0d1ca","spec":{"type":"policy","cause":{"Message":"","User":"Glenn Turner \u003cgmt5050@mac.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
